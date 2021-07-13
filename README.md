@@ -14,4 +14,4 @@
 ---
 ###### 由 ```CatAD``` 提供的广告
 
-[猫猫招聘](https://github.com/cat-china/CatCatBrowser/blob/main/CatChinaRecruitment.md)
+[猫猫招聘 - 我们需要你们！共同发展国产浏览器大业！](https://github.com/cat-china/CatCatBrowser/blob/main/CatChinaRecruitment.md)
